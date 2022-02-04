@@ -2,7 +2,7 @@
 banner:
   enable: false
   bg_image_webp: images/backgrounds/hero-area.webp
-  bg_image: images/backgrounds/images/editor-1.png
+  bg_image: images/backgrounds/banner.png
   icon: ''
   title: HI, I AM CASEY
   content: I edit books
