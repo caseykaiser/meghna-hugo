@@ -10,14 +10,14 @@ service:
     icon: ''
     content: "$60/hour"
   - name: Line Editing
-    icon: ti-world
+    icon: ''
     content: "$.04/word"
   - name: Developmental Editing
-    icon: ti-layout
+    icon: ''
     content: "$.03/word"
   - name: Proofreading
-    icon: ti-blackboard
+    icon: ''
     content: "$.02/word"
   - name: Sensitivity Reading
-    icon: ti-palette
+    icon: ''
     content: "$.01/word"
