@@ -7,5 +7,5 @@ cta:
   content: ''
   button:
     enable: true
-    label: Start working with me
+    label: Quote
     link: "#contact"
