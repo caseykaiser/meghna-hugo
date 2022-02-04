@@ -29,24 +29,9 @@ name = "team"
 url = "#team"
 weight = 4
 [[Languages.en.menu.main]]
-name = "pricing"
-url = "#pricing"
-weight = 5
-[[Languages.en.menu.main]]
-name = "blog"
-url = "#blog"
-weight = 6
-[[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
 weight = 7
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Dropdown"
-weight = 7
-[[Languages.en.menu.main]]
-name = "Dropdown 1"
-parent = "Dropdown"
 url = "#"
 weight = 1
 [[Languages.en.menu.main]]
