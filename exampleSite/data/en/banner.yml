@@ -1,7 +1,7 @@
 ---
 banner:
   enable: true
-  bg_image_webp: images/backgrounds/hero-area.webp
+  bg_image_webp: images/backgrounds/bg image.png
   bg_image: images/backgrounds/banner.png
   icon: ''
   title: HI, I AM CASEY
