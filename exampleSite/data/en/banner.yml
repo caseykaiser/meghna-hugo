@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: "/images/bg-image-1.png"
-  bg_image: "/images/bg-image-1.png"
+  bg_image_webp: "/images/bannerimage.png"
+  bg_image: "/images/bannerimage.png"
   icon: ''
   title: HI, I AM CASEY
   content: I edit books
