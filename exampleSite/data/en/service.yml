@@ -9,10 +9,9 @@ service:
   - name: Developmental Editing
     icon: ti-layout
     content: "$.03/word"
-  - name: Media &amp; Advertisement
+  - name: Proofreading
     icon: ti-blackboard
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "$.02/word"
   - name: Graphic Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
