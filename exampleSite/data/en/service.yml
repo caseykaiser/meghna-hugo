@@ -3,6 +3,9 @@ service:
   enable: true
   title: My Services
   service_item:
+  - name: Sample edit
+    icon: ''
+    content: Free (upto 1000 words)
   - name: Consultation
     icon: ''
     content: "$60/hour"
