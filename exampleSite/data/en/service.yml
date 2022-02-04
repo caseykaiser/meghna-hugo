@@ -3,6 +3,9 @@ service:
   enable: true
   title: My Services
   service_item:
+  - name: Consultation
+    icon: ''
+    content: "$60/hour"
   - name: Line Editing
     icon: ti-world
     content: "$.04/word"
