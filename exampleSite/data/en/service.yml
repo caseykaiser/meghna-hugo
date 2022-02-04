@@ -12,10 +12,9 @@ service:
   - name: Proofreading
     icon: ti-blackboard
     content: "$.02/word"
-  - name: Graphic Design
+  - name: Sensitivity Reading
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "$.01/word"
   - name: Apps Development
     icon: ti-package
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
