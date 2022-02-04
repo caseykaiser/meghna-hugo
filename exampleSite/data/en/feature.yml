@@ -1,8 +1,8 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: "/images/editor-1.png"
+  image_webp: "/images/editor-1.png"
   title: Hi, I am Casey
   content: An experienced copyeditor and proofreader with an interest in commercial
     fiction (young adult and adult) and creative non-fiction. My clients include self-publishing
