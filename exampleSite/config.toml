@@ -101,7 +101,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
 google_analytics_id = ""
-logo = "/images/casey-kaiser-1.png"
+logo = ""
 post_share = true
 [params.cookies]
 enable = false
