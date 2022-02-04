@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: "/images/backgrounds/bg image.png"
-  bg_image: images/backgrounds/banner.png
+  bg_image: "/images/bg-image-1.png"
   icon: ''
   title: HI, I AM CASEY
   content: I edit books
