@@ -4,7 +4,7 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: Hi, I am Casey
+  title: HI, I AM CASEY
   content: I edit books
   button:
     enable: true
